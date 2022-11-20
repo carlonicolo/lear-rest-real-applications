@@ -17,4 +17,5 @@ You will see that also in simple projects like this there is a lot to learn !
 Rust is very different from other languages so let's go RUST.  
 
 These project are insprired by the Udemy course  
-[Learn Rust by Building Real Application](https://www.udemy.com/course/rust-fundamentals/){:target="\_blank"}
+
+<a href="https://www.udemy.com/course/rust-fundamentals/" target="_blank"> Learn Rust by Building Real Application </a>
